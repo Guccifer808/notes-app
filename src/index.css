@@ -149,7 +149,7 @@ h2 {
 .btn.add__btn {
     position: fixed;
     bottom: 4rem;
-    right: 7rem;
+    right: 6rem;
     padding: 1rem;
 }
 
@@ -203,9 +203,9 @@ h2 {
     }
 
     .btn.add__btn {
-        padding: 1.5rem;
+        padding: 1.25rem;
         font-size: 1.5rem;
-        bottom: 6%;
+        bottom: 5%;
         right: 2rem;
     }
 }
